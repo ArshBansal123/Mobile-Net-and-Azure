@@ -1,0 +1,12 @@
+img{
+    width: 400px;
+    height:400px;
+    padding-left:  60px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+}
